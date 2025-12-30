@@ -1,2 +1,3 @@
 - Bu dosyayı ben guncelleyecegım sadece
 - maine push atma engelleme deneme 1
+- maine push atma engelleme deneme 2
