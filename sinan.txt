@@ -1,6 +1,0 @@
-- Bu dosyayı ben guncelleyecegım sadece
-- maine push atma engelleme deneme 1
-- maine push atma engelleme deneme 2
-
-şimdi ben kendi branch imi oluşturdum ilk olarak sonra bu brench de ilerliyorum dimi şimdi push atacağım nereye gidecek ama onu anlamadım 
-ahmet ikinci güncelleme 
